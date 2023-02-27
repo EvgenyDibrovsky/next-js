@@ -1,6 +1,6 @@
 # Next.js Github Pages
 
-Deploy Next.js to Github Pages with Github Actions. 👉 [View the deployed app](https://github.com/EvgenyDibrovsky/next-js)
+Deploy Next.js to Github Pages with Github Actions. 👉 [View the deployed app](https://gregrickaby.github.io/nextjs-github-pages/)
 
 ---
 
@@ -8,7 +8,7 @@ Vercel promotes itself as _"The easiest way to deploy your Next.js app"_ and Net
 
 During my research, **I've found very little documentation around deploying a static Next.js app to Github Pages.** I spent an entire Saturday working through it and want to share what I learned with you.
 
-> Update: Vercel has since published an [official example](https://github.com/EvgenyDibrovsky/next-js). I recommend you take a look at the official example before making any major decisions.
+> Update: Vercel has since published an [official example](https://github.com/vercel/next.js/tree/canary/examples/github-pages). I recommend you take a look at the official example before making any major decisions.
 
 ---
 
